@@ -1,0 +1,20 @@
+{
+    "author": "Alex Costa",
+    "name": "censorifight",
+    "version": "0.1.2",
+    "description": "Censors words out of text",
+    "main": "censortext",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/alexcosta97/censorify.git"
+    },
+    "keywords": [
+        "censor",
+        "words"
+    ],
+    "readme": "README.md",
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
